@@ -2,5 +2,5 @@ Bachtiar Resolusi
 - Konsisten Belajar Git dan Github
 - Konsisten Belajar PHP
 - Konsisten Belajar tentang API
-- Membuat Aplikasi atau Website 
 - Kolaborasi dengan para expert
+- Membuat vlog
