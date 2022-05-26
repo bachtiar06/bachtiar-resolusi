@@ -1,0 +1,4 @@
+Bachtiar Resolusi
+- Konsisten Belajar Git dan Github
+- Konsisten Belajar PHP
+- Konsisten Belajar tentang API
